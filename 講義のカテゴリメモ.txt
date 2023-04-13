@@ -1,0 +1,178 @@
+【講座でやったこと、見返しメモ】
+4. #02A_StackPanel
+→stackpanelの使い方
+→WPFLesson1
+
+
+5. #02B_StackPanel
+→stackpanelの使い方
+→WPFLesson2
+
+
+6. #03 Grid
+→Gridの使い方
+→計算器のアプリ風(スタイルのみ)
+→WPFLesson3
+
+
+7. #04 コントロールの名前の付け方
+→Gridの使い方
+→計算器のアプリ風(スタイルのみ)
+→WPFLesson4
+
+
+8. #05 イベント
+→ボタンイベント
+→増加とクリアのアプリ
+→WPFLesson5
+
+
+9. #06 StaticResource
+→Window.Resourcesの使い方
+→デザインの変数、再利用
+→WPFLesson6
+
+→Application.Resourcesの使い方
+→デザインの変数、再利用、全ウィンドウ、画面共通
+→WPFLesson6_2
+
+
+10. #07 コントロールのスタイル定義
+→Application.Resourcesの使い方
+→デザインの変数、再利用、全ウィンドウ、画面共通
+→HTMLのclassに似た概念
+→WPFLesson7
+
+
+11. #08 グループごとのコントロールのスタイル定義の方法
+→Application.Resourcesの使い方
+→デザインの変数、再利用、全ウィンドウ、画面共通
+→HTMLのclassに似た概念
+→デザインの継承
+→WPFLesson8
+
+
+12. #09 SQLiteの使い方★
+→CURDとSQLite
+→WPFLesson9
+
+13. #10 ListView
+14. #11 ListViewのフィルタリング★
+→Listとフィルター
+→WPFLesson10
+
+15. #12 SQLite＆ListView★★
+→CURDとSQLite
+→WPFLesson11
+
+
+※WPFLesson12は欠番
+
+
+16. 13A_Button
+→WPFLesson13
+→ボタンとボタンの中にstackpanelを記述
+
+
+17. 13B_RepeatButton
+→WPFLesson13
+→Repeatボタンとintervalとdelay
+
+
+18. 13C_ToggleButton
+→WPFLesson13
+→Toggleボタン
+checkboxに似ている。押したら、押し下げ状態が続く
+
+
+19. #14 CheckBox
+→WPFLesson14
+→チェックボックス
+
+
+20. #15 RadioButton
+→WPFLesson15
+→ラジオボタン
+
+
+21. #16 Expander
+→WPFLesson16
+→開閉式の空間
+
+
+22. #17 GroupBox（グループボックス）
+→WPFLesson17
+→グループ化
+
+
+23. #18 Slider（スライダー）
+→WPFLesson18
+→横スクロールバー
+
+
+24. #19 ProgressBar（プログレスバー）
+→WPFLesson19
+→バーが変動する。
+
+
+25. #20 ComboBox（コンボボックス）
+→WPFLesson20
+→ドロップダウン
+→データソースをリストにできる
+
+
+26. #21 ListBox（リストボックス）
+→WPFLesson21
+→コンボボックスに顔写真や名前を加えた感じ
+
+
+27. #22 TabControl（タブコントロール）
+→WPFLesson22
+→ページ内のタブによる画面切り替え
+
+
+28. #23 TreeView
+→WPFLesson23
+→ツリー構造の選択肢を作成する。
+→静的と動的で作成可能
+
+
+29. #24 Textについて（TextBlock,TextBox）
+→WPFLesson24
+→TextBoxとTextBlock
+→追加属性
+
+
+30. #25 Menu
+→WPFLesson25
+→ウィンドウの上部にあるタブメニューのこと
+例；ファイル、編集、デバック、etc..
+
+
+31. #26 ToolBar
+→WPFLesson26
+→アイコン付きのボタン
+
+
+32. #27 StatusBar
+→WPFLesson27
+→progressbarなどを置く
+
+
+33. #28 WrapPanel
+→WPFLesson28
+→折り返しできるpanel
+→画像を並べるときなどに使えそう
+
+34. #29 DockPanel
+→WPFLesson29
+→縦横無尽にコントロールを配置させる
+→SPAなどで左をメニューにしたりなどで応用ができそう
+
+
+35. #30 Canvas
+→WPFLesson30
+→座標を指定してコントロールを配置する。
+
+
+END

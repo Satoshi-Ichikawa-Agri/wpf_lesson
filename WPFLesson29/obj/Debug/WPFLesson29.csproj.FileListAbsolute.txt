@@ -1,0 +1,16 @@
+C:\Users\daiko\WpfProject\WPFLesson29\bin\Debug\WPFLesson29.exe.config
+C:\Users\daiko\WpfProject\WPFLesson29\bin\Debug\WPFLesson29.exe
+C:\Users\daiko\WpfProject\WPFLesson29\bin\Debug\WPFLesson29.pdb
+C:\Users\daiko\WpfProject\WPFLesson29\obj\Debug\WPFLesson29.csproj.AssemblyReference.cache
+C:\Users\daiko\WpfProject\WPFLesson29\obj\Debug\WPFLesson29.csproj.SuggestedBindingRedirects.cache
+C:\Users\daiko\WpfProject\WPFLesson29\obj\Debug\MainWindow.g.cs
+C:\Users\daiko\WpfProject\WPFLesson29\obj\Debug\App.g.cs
+C:\Users\daiko\WpfProject\WPFLesson29\obj\Debug\WPFLesson29_MarkupCompile.cache
+C:\Users\daiko\WpfProject\WPFLesson29\obj\Debug\WPFLesson29_MarkupCompile.lref
+C:\Users\daiko\WpfProject\WPFLesson29\obj\Debug\MainWindow.baml
+C:\Users\daiko\WpfProject\WPFLesson29\obj\Debug\WPFLesson29.g.resources
+C:\Users\daiko\WpfProject\WPFLesson29\obj\Debug\WPFLesson29.Properties.Resources.resources
+C:\Users\daiko\WpfProject\WPFLesson29\obj\Debug\WPFLesson29.csproj.GenerateResource.cache
+C:\Users\daiko\WpfProject\WPFLesson29\obj\Debug\WPFLesson29.csproj.CoreCompileInputs.cache
+C:\Users\daiko\WpfProject\WPFLesson29\obj\Debug\WPFLesson29.exe
+C:\Users\daiko\WpfProject\WPFLesson29\obj\Debug\WPFLesson29.pdb
